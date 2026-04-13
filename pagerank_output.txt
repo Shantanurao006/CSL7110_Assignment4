@@ -1,0 +1,23 @@
+Initializing PageRank system...
+Pages found: ['stack_cprogramming', 'stackmagazine', 'stack_oracle', 'references', 'stack_datastructure_wiki', 'stackoverflow', 'stacklighting']
+Total nodes added: 7
+Step 11 successful ✅
+
+Building edges from actions.txt...
+Total edges created: 15
+Step 12 successful ✅
+
+Applying PageRank...
+PageRank computation complete!
+
+Page Rankings (Highest to Lowest):
+
+stack_cprogramming: 0.1626
+stackmagazine: 0.1626
+stack_oracle: 0.1626
+stack_datastructure_wiki: 0.1626
+stackoverflow: 0.1626
+stacklighting: 0.1626
+references: 0.0244
+
+Step 13 successful ✅
